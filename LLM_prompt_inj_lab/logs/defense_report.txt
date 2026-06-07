@@ -1,0 +1,5 @@
+The baseline system exhibited an Attack Success Rate (ASR) of 60.00%.
+
+After implementing layered defenses including input filtering, output filtering, prompt hardening and request monitoring, the ASR reduced to 40.00%.
+
+The defense mechanisms achieved an ASR reduction of 33.33%.

@@ -1,0 +1,18 @@
+PROMPT INJECTION ANALYSIS REPORT
+============================================================
+
+BEFORE DEFENSE
+--------------------
+Total Tests: 5
+ASR: 60.00%
+Average Leak Score: 1.00
+
+AFTER DEFENSE
+--------------------
+Total Tests: 5
+ASR: 40.00%
+Average Leak Score: 0.40
+
+DEFENSE EFFECTIVENESS
+--------------------
+ASR Reduction: 33.33%
