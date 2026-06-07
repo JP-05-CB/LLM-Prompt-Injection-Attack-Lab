@@ -121,7 +121,7 @@ LLM_prompt_inj_lab/
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/LLM_prompt_inj_lab.git](https://github.com/yourusername/LLM_prompt_inj_lab.git)
+    git clone [https://github.com/JP-05-CB/LLM_prompt_inj_lab.git](https://github.com/JP-O5-CB/LLM_prompt_inj_lab.git)
     cd LLM_prompt_inj_lab
     ```
 
